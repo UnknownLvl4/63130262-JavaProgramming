@@ -1,5 +1,7 @@
 package duyhn;
+
 import java.util.Scanner;
+
 public class Lab1Bai1 {
 
 	public static void main(String[] args) {
